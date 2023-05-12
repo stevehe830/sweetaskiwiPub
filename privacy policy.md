@@ -42,7 +42,7 @@ We take the security of your personal information seriously and use reasonable m
 
 ## Your rights
 
-You have the right to access and correct your personal information that we hold. You may also request that we delete your personal information. To exercise these rights, please contact us at [insert contact information].
+You have the right to access and correct your personal information that we hold. You may also request that we delete your personal information. To exercise these rights, please contact us at support@sweetaskiwi.co.nz
 
 ## Changes to this policy
 
@@ -50,4 +50,4 @@ We may update this privacy policy from time to time by posting a new version on 
 
 ## Contact us
 
-If you have any questions about this privacy policy, please contact us at [insert contact information].
+If you have any questions about this privacy policy, please contact us at support@sweetaskiwi.co.nz.
